@@ -2,6 +2,8 @@
 
 Welcome to my website! 
 
+I don't know how to get rid of the rest of the stuff on this website. I thought I commented all of this out. 
+
 ## You can use the [editor on GitHub]#(https://github.com/kaallaire1877/kaallaire1877.github.io/edit/main/README.md) to maintain and preview the content for #your website in Markdown files.
 
 # Whenever you commit to this repository, GitHub Pages will run [Jekyll]#(https://jekyllrb.com/) to rebuild the pages in your site, from the content in your # Markdown files.
